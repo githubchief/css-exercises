@@ -11,8 +11,8 @@ body, html {
   box-sizing: border-box;
   display: grid;
   overflow: scroll;
-  grid-template-rows: 10vh 10vh 69vh 10vh;
-  grid-template-columns: 25vw 75vw;
+  grid-template-rows: 100px 100px 500px 100px;
+  grid-template-columns: 300px 900px;
   gap: 1vh;
 }
 
